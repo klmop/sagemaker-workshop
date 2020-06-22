@@ -1,6 +1,6 @@
 ---
 title: "Building an ML Workflow"
-chapter: false
+chapter: true
 weight: 15
 ---
 
